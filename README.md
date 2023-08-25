@@ -51,19 +51,19 @@ En el EDA se realizó en primera instancia una adecuación de los datos para el 
 
 Para este trabajo se seleccionaron trece (13) criptomonedas bajo el criterio de dejar abierta la posibilidad de inverción en tres áreas bien definidas que son :
 
-Crypto: `Binancecoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Dogecoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Ethereum` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Litecoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Bitcoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Ripple` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Tether` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Tron` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Cardano` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20
-Crypto: `Singularitynet` | Datos Observados en el período desde 2018-01-21 hasta 2023-08-20
-Crypto: `Fetch-AI` | Datos Observados en el período desde 2019-02-28 hasta 2023-08-20
-Crypto: `Solana` | Datos Observados en el período desde 2020-04-10 hasta 2023-08-20
-Crypto: `Render-Token` | Datos Observados en el período desde 2020-06-14 hasta 2023-08-20
+Crypto: `Binancecoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Dogecoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Ethereum` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Litecoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Bitcoin` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Ripple` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Tether` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Tron` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Cardano` | Datos Observados en el período desde 2018-01-01 hasta 2023-08-20<br>
+Crypto: `Singularitynet` | Datos Observados en el período desde 2018-01-21 hasta 2023-08-20<br>
+Crypto: `Fetch-AI` | Datos Observados en el período desde 2019-02-28 hasta 2023-08-20<br>
+Crypto: `Solana` | Datos Observados en el período desde 2020-04-10 hasta 2023-08-20<br>
+Crypto: `Render-Token` | Datos Observados en el período desde 2020-06-14 hasta 2023-08-20<br>
 
 #### Criterios de la Propuesta
 1. Criptomonedas más rentables por Capitalización de Mercado.
