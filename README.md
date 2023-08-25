@@ -1,7 +1,7 @@
 # Data Analytics 
-## Proyecto Individual # 2 | Sistema de Recomendación de Películas
+## Proyecto Individual # 2 | Data Analytics - Inteligencia de Negocios - Dashboard
 ## Introducción:
-El presente proyecto práctico forma parte del curriculum para la carrera de Ciencia de Datos impartido por **Henry** como parte del trayecto de Labs. El mismo consiste en realizar un análisis sobre el mercado de criptomonedas y evaluar el comportamiento de un mínimo de 10 para entregar una propuesta de posible negocios.
+El presente proyecto práctico forma parte del curriculum para la carrera de Ciencia de Datos impartido por **Henry** como parte del trayecto de Labs. El mismo consiste en realizar un análisis sobre el **mercado de criptomonedas** y evaluar el comportamiento de un mínimo de 10 de éstas para entregar una propuesta de posible inversión.
 
 El trabajo se realizó en tres etapas bien definidas y complementarias:
 
